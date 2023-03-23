@@ -1,0 +1,16 @@
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\bin\Debug\Lab1-21522164-Quách Minh Huy.exe.config
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\bin\Debug\Lab1-21522164-Quách Minh Huy.exe
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\bin\Debug\Lab1-21522164-Quách Minh Huy.pdb
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.csproj.AssemblyReference.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.csproj.SuggestedBindingRedirects.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.Form1.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.Properties.Resources.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.csproj.GenerateResource.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.csproj.CoreCompileInputs.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.exe
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1-21522164-Quách Minh Huy.pdb
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.FrmTong.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.FrmMaxMin.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.FrmDoc.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.FrmDoiTien.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Lab1-21522164-Quách Minh Huy\Lab1-21522164-Quách Minh Huy\obj\Debug\Lab1_21522164_Quách_Minh_Huy.FrmBai5.resources
