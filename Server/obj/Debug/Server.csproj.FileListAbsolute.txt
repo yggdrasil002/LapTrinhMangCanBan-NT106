@@ -1,0 +1,11 @@
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\bin\Debug\Server.exe.config
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\bin\Debug\Server.exe
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\bin\Debug\Server.pdb
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.exe
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.pdb
+C:\Users\qmh18\Documents\Study\Use to code\Lập trình mạng căn bản\Week3QQ\Server\obj\Debug\Server.Server.resources
