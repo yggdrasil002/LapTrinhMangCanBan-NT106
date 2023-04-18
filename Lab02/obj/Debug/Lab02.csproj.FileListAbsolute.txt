@@ -12,3 +12,4 @@ C:\Users\qmh18\Documents\Study\Learning\NT106\Lab2\Lab02\Lab02\obj\Debug\Lab02.e
 C:\Users\qmh18\Documents\Study\Learning\NT106\Lab2\Lab02\Lab02\obj\Debug\Lab02.pdb
 C:\Users\qmh18\Documents\Study\Learning\NT106\Lab2\Lab02\Lab02\obj\Debug\Lab02.FrmBai2.resources
 C:\Users\qmh18\Documents\Study\Learning\NT106\Lab2\Lab02\Lab02\obj\Debug\Lab02.Bài_3.resources
+C:\Users\qmh18\Documents\Study\Learning\NT106\Lab2\Lab02\Lab02\obj\Debug\Lab02.Bài_4.resources
