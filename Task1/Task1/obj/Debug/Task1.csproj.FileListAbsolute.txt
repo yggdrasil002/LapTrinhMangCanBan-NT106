@@ -1,0 +1,13 @@
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.DashBroad.resources
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.UDPClient.resources
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\Week3\Task1\Task1\obj\Debug\Task1.UDPServer.resources
