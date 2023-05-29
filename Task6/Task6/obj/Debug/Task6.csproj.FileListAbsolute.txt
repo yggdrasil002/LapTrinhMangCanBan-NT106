@@ -1,0 +1,15 @@
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.Form1.resources
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.pdb
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\HtmlAgilityPack.dll
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\bin\Debug\HtmlAgilityPack.xml
+C:\Users\qmh18\Desktop\Learn\NT106 Lập trình mạng căn bản\TH\Lab4\Task6\Task6\obj\Debug\Task6.csproj.CopyComplete
